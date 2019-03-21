@@ -1,5 +1,5 @@
 # Web_Scrape
-Scrapes titles and image urls from The Kennedy Center's Millenium Stage. 
+Scrapes info from websites into their respective csv, which can be converted to JSON
 
 Libraries:
 Beautiful Soup
@@ -18,3 +18,6 @@ Procedure:
 
 Languages used:
 Python
+
+Forward thinking:
+Creating a project using the Flask module to gather csv data and perform server to client tasks.
