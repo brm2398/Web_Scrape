@@ -1,4 +1,4 @@
-# Web_Scrape
+# Project: Web_Scrape
 Scrapes info from websites into their respective csv, which can be converted to JSON
 
 Libraries:
